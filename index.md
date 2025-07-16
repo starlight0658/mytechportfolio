@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](the-linux-mascot-touching-the-screen-with-the-linux-terminal-in-the-background.avif)
 
 
 ### Definition lists can be used with HTML syntax.
